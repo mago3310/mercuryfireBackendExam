@@ -1,0 +1,6 @@
+@mercuryfireBackendExam_HostAddress = http://localhost:5069
+
+GET {{mercuryfireBackendExam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
